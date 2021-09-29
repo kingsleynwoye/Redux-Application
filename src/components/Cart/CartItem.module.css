@@ -1,6 +1,6 @@
 .item {
   margin: 1rem 0;
-  background-color: #575757;
+  background-color: #636060;
   padding: 1rem;
 }
 
@@ -45,10 +45,10 @@
 
 .actions button {
   background-color: transparent;
-  border: 1px solid white;
+  border: 1px solid rgb(114, 112, 236);
   margin-left: 0.5rem;
   padding: 0.15rem 1rem;
-  color: white;
+  color: rgb(241, 240, 245);
 }
 
 .actions button:hover,
